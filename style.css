@@ -1,3 +1,9 @@
+*{
+    scroll-behavior: smooth;
+    
+}
+
+
 .open-sans-normal {
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
